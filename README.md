@@ -1,1 +1,1 @@
-# git-in-depth
+# Git in Depth
