@@ -1,3 +1,3 @@
-# Git in Depth
+# Git in Depths
 
 ## some description
